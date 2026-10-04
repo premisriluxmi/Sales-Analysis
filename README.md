@@ -1,4 +1,4 @@
-# Sales Analysis
+# Sales Data Calculator
 
 A beginner-level Python project that analyzes sales values and calculates basic sales statistics.
 
